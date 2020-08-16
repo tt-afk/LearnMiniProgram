@@ -1,0 +1,7 @@
+
+ 
+<view>
+
+<button type="primary" bindtap="xuanzeweizhi">在途导航</button>
+<button type="primary" bindtap="xunche">寻车</button>
+ </view>

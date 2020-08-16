@@ -1,0 +1,5 @@
+/* pages/tt/tt.wxss */
+.title{
+  color: red ;
+  font-size: 30px;
+}

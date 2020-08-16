@@ -1,0 +1,10 @@
+<!--pages/tt/tt.wxml-->
+<text class="title">Hello World</text>
+<button size="mini">按钮</button>
+<image src="网络图片地址or本地图片地址"></image>
+<view>hello {{name}}</view>
+<view>我的年龄： {{age+20}}</view>
+<view wx:for="{{students}}"> {{item.name}}-{{item.age}}</view>
+<view>当前计数：{{ counter}}</view>
+<button size='mini' bindtap='handleBtnClick'>+</button>
+<button size='mini' bindtap='handleSubtraction'>-</button>

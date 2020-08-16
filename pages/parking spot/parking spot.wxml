@@ -1,0 +1,5 @@
+<view>
+<button type="primary" bindtap="tuijian">自动推荐车位</button>
+<button type="primary" bindtap="xuanzei">手动选择车位</button>
+<button type="primary" bindtap="fanhui">返回</button>
+</view>
