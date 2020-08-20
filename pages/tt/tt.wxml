@@ -1,4 +1,5 @@
 <!--pages/tt/tt.wxml-->
+<view>1</view>
 <text class="title">Hello World</text>
 <button size="mini">按钮</button>
 <image src="网络图片地址or本地图片地址"></image>
